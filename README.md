@@ -1,4 +1,4 @@
-# Brain Tumor Classification using CNN
+# Brain Tumor Classification using TF - CNN
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow to classify brain MRI scans for tumor detection and classification. 
 
